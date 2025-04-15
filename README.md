@@ -1,2 +1,2 @@
 # references
-References and citations for my scientific works
+This repository contains all references and citations used in my scientific works.
