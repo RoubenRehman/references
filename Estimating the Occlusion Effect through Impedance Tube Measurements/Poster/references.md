@@ -1,0 +1,5 @@
+1. V. Békésy, G. (1949). The Structure of the Middle Ear and the Hearing of One’s Own Voice by Bone Conduction. The 	Journal of the Acoustical Society of America, 21(3), 217–232. https://doi.org/10.1121/1.1906501
+2.	Tonndorf, J. (1968). A New Concept of Bone Conduction. Archives of Otolaryngology - Head and Neck Surgery, 	87(6), 595–600. https://doi.org/10.1001/archotol.1968.00760060597008
+3. 	Carillo, K., Doutres, O., & Sgard, F. (2021). On the removal of the open earcanal 	high-pass filter 	effect due to its occlusion: A bone-conduction occlusion effect theory. Acta Acustica, 5, 36. 	https://doi.org/10.1051/aacus/2021029
+4. 	Shaw, E. A. G., & Stinson, M. R. (1983). The Human External and Middle Ear: Models and 	Concepts. In E. De Boer & M. A. Viergever (Eds.), Mechanics of Hearing (pp. 3–	10). Springer 	Netherlands. https://doi.org/10.1007/978-94-009-6911-7_1
+5. 	Vorländer, M. (2000). Acoustic load on the ear caused by headphones. The Journal of the 	Acoustical Society of America, 107(4), 2082–2088. https://doi.org/10.1121/1.428490

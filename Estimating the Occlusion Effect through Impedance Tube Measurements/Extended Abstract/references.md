@@ -1,0 +1,12 @@
+1. V. Békésy, Georg. “The Structure of the Middle Ear and the Hearing of One’s Own Voice by Bone Conduction.” The Journal of the Acoustical Society of America 21, no. 3 (May 1, 1949): 217–32. https://doi.org/10.1121/1.1906501.
+2. Pörschmann, Christoph. “Eigenwahrnehmung der Stimme in auditiven virtuellen Umgebungen.” Ruhr Universität Bochum, 2001. https://bibliographie.ub.rub.de/work/216284.
+3. Carillo, Kévin, Olivier Doutres, and Franck Sgard. “On the Removal of the Open Earcanal High-Pass Filter Effect Due to Its Occlusion: A Bone-Conduction Occlusion Effect Theory.” Acta Acustica 5 (2021): 36. https://doi.org/10.1051/aacus/2021029.
+4. Vorländer, Michael. “Acoustic Load on the Ear Caused by Headphones.” The Journal of the Acoustical Society of America 107, no. 4 (April 1, 2000): 2082–88. https://doi.org/10.1121/1.428490.
+5. Tonndorf, J. “A New Concept of Bone Conduction.” Archives of Otolaryngology - Head and Neck Surgery 87, no. 6 (June 1, 1968): 595–600. https://doi.org/10.1001/archotol.1968.00760060597008.
+6. Zurbrügg, T., A. Stirnemannn, M. Kuster, and H. Lissek. “Investigations on the Physical Factors Influencing the Ear Canal Occlusion Effect Caused by Hearing Aids.” Acta Acustica United with Acustica 100, no. 3 (May 1, 2014): 527–36. https://doi.org/10.3813/AAA.918732.
+7. Stenfelt, Stefan, and Sabine Reinfeldt. “A Model of the Occlusion Effect with Bone-Conducted Stimulation.” International Journal of Audiology 46, no. 10 (January 2007): 595–608. https://doi.org/10.1080/14992020701545880.
+8. E. A. G. Shaw and M. R. Stinson, “The human external and middle ear: Models and concepts,” in Mechanics of Hearing, edited by E. de Boer and M. A. Viergever (Springer, Dordrecht, Netherlands, 1983), pp. 3–10.
+\bibitem{book}
+Kuttruff, Heinrich. Acoustics: An Introduction. London: Taylor \& Francis, 2007.
+9. Denk, F., Hiipakka, M., Kollmeier, B., \& Ernst, S. M. (2018). An individualised acoustically transparent earpiece for hearing devices. International journal of audiology, 57(sup3), S62-S70.
+10. Schlieper, R., Li, S., Preihs, S., \& Peissig, J. (2019, August). The relationship between the acoustic impedance of headphones and the occlusion effect. In Audio Engineering Society Conference: 2019 AES International Conference on Headphone Technology. Audio Engineering Society.
